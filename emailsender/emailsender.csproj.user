@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"mail.softlandindia.co.in"{||}"587"{||}true{||}"asish%40softlandindia.co.in"{||}"Asish_softland"{||}"sarathraj.kv%40softlandindia.co.in"{||}""{||}""{||}"My test Email 1"{||}false{||}"Consolidated Report From : 03/02/2023     To : 03/02/2023Branch : ALL     Center : ALL    PID : ALL"{||}"E:\VB_Projects\BillTrac B Hydal with payment mode/emailfile.xls"</StartArguments>
+  </PropertyGroup>
+</Project>

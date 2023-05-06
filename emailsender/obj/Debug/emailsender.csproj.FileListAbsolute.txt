@@ -1,0 +1,7 @@
+D:\.net_project\emailsender\emailsender\bin\Debug\emailsender.exe.config
+D:\.net_project\emailsender\emailsender\bin\Debug\emailsender.exe
+D:\.net_project\emailsender\emailsender\bin\Debug\emailsender.pdb
+D:\.net_project\emailsender\emailsender\obj\Debug\emailsender.csprojAssemblyReference.cache
+D:\.net_project\emailsender\emailsender\obj\Debug\emailsender.csproj.CoreCompileInputs.cache
+D:\.net_project\emailsender\emailsender\obj\Debug\emailsender.exe
+D:\.net_project\emailsender\emailsender\obj\Debug\emailsender.pdb
